@@ -1,8 +1,8 @@
 {
   "name": "@al/iris",
-  "version": "1.1.1",
+  "version": "2.0.0-beta.1",
   "license": "MIT",
-  "description": "A client for interacting with the Alert Logic Iris Public API",
+  "description": "A client for interacting with the Alert Logic V3 Iris Public API",
   "author": {
     "name": "Alert Logic UI Team",
     "email": "ui@alertlogic.com"
